@@ -15,9 +15,7 @@ The goal of this project is to get you running a testing suite and implementing 
 
 ## How To Begin
 
-To start, download the starting code for this project <a href="https://s3.amazonaws.com/codecademy-content/PRO/skill-paths/backend-javascript/projects/content-creators/project-0-content-creators-start.zip" target="_blank">here</a>. After downloading the zip folder, double click it to uncompress it and access the contents of this project.
-
-## Implementation Details
+### Implementation Details
 
 To complete this project, your code will need to contain the following:
 
